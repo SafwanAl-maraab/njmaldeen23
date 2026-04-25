@@ -1,0 +1,13 @@
+{
+  "name": "professional-cv",
+  "version": "1.0.0",
+  "description": "Professional CV for NJM ALDEEN - Surveying Engineer",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'CV is ready for export'"
+  },
+  "keywords": ["cv", "resume", "surveying", "engineer"],
+  "author": "NJM ALDEEN",
+  "license": "MIT"
+}
